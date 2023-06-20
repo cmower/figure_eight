@@ -3,6 +3,8 @@
 Simple package that generates figure of eight motion.
 See the [demo.py](demo.py) script for an example usage.
 
+![Figure Eight](doc/figure_eight.png)
+
 # Install
 
 1. Clone repository
