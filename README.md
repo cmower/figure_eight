@@ -1,5 +1,7 @@
 # figure_eight
+
 Simple package that generates figure of eight motion.
+See the [demo.py](demo.py) script for an example usage.
 
 # Install
 
